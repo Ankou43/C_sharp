@@ -1,0 +1,15 @@
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C_sharp/Number_2/bin/Debug/net6.0/Number_2
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C_sharp/Number_2/bin/Debug/net6.0/Number_2.deps.json
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C_sharp/Number_2/bin/Debug/net6.0/Number_2.runtimeconfig.json
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C_sharp/Number_2/bin/Debug/net6.0/Number_2.dll
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C_sharp/Number_2/bin/Debug/net6.0/Number_2.pdb
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C_sharp/Number_2/obj/Debug/net6.0/Number_2.csproj.AssemblyReference.cache
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C_sharp/Number_2/obj/Debug/net6.0/Number_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C_sharp/Number_2/obj/Debug/net6.0/Number_2.AssemblyInfoInputs.cache
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C_sharp/Number_2/obj/Debug/net6.0/Number_2.AssemblyInfo.cs
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C_sharp/Number_2/obj/Debug/net6.0/Number_2.csproj.CoreCompileInputs.cache
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C_sharp/Number_2/obj/Debug/net6.0/Number_2.dll
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C_sharp/Number_2/obj/Debug/net6.0/refint/Number_2.dll
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C_sharp/Number_2/obj/Debug/net6.0/Number_2.pdb
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C_sharp/Number_2/obj/Debug/net6.0/Number_2.genruntimeconfig.cache
+/home/frolov/Документы/DATA_ANKOU/GeekBrains/C_sharp/Number_2/obj/Debug/net6.0/ref/Number_2.dll
